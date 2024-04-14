@@ -1,0 +1,11 @@
+name: kGWASflow
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - snakemake-minimal=7.25.0
+  - mamba=1.4.1
+  - numpy=1.23.5
+  - pandas=1.5.3
+

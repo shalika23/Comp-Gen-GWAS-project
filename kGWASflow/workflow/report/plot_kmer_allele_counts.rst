@@ -1,0 +1,1 @@
+Bar plot showing the number of k-mers appeared in `N` number of samples (`N` goes between 1 to the total number of samples). Only the k-mers that passed the filtering step were used.
